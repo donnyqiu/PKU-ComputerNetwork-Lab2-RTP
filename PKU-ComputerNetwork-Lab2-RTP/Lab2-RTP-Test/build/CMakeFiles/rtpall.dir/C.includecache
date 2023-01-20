@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/src/rtp.c
+rtp.h
+/home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/src/rtp.h
+util.h
+/home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/src/util.h
+string.h
+-
+
+/home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/src/rtp.h
+stdint.h
+-
+netinet/in.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+stdlib.h
+-
+
+/home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/src/util.h
+stdint.h
+-
+stddef.h
+-
+sys/time.h
+-
+unistd.h
+-
+stdio.h
+-
+

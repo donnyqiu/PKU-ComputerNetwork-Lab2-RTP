@@ -1,0 +1,522 @@
+Start testing: Jan 12 20:33 CST
+----------------------------------------------------------
+1/26 Testing: RTP.NO_FAILURE
+1/26 Test: RTP.NO_FAILURE
+Command: "/home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build/rtp_test_all" "--gtest_filter=RTP.NO_FAILURE" "--gtest_also_run_disabled_tests"
+Directory: /home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build
+"RTP.NO_FAILURE" start time: Jan 12 20:33 CST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = RTP.NO_FAILURE
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RTP
+[ RUN      ] RTP.NO_FAILURE
+[       OK ] RTP.NO_FAILURE (1494 ms)
+[----------] 1 test from RTP (1494 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1494 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   1.50 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.NO_FAILURE" end time: Jan 12 20:33 CST
+"RTP.NO_FAILURE" time elapsed: 00:00:01
+----------------------------------------------------------
+
+2/26 Testing: RTP.NO_FAILURE_OPT
+2/26 Test: RTP.NO_FAILURE_OPT
+Command: "/home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build/rtp_test_all" "--gtest_filter=RTP.NO_FAILURE_OPT" "--gtest_also_run_disabled_tests"
+Directory: /home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build
+"RTP.NO_FAILURE_OPT" start time: Jan 12 20:33 CST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = RTP.NO_FAILURE_OPT
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RTP
+[ RUN      ] RTP.NO_FAILURE_OPT
+[       OK ] RTP.NO_FAILURE_OPT (1493 ms)
+[----------] 1 test from RTP (1493 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1493 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   1.50 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.NO_FAILURE_OPT" end time: Jan 12 20:33 CST
+"RTP.NO_FAILURE_OPT" time elapsed: 00:00:01
+----------------------------------------------------------
+
+3/26 Testing: RTP.RECEIVER_TEST_LOST_DATA
+3/26 Test: RTP.RECEIVER_TEST_LOST_DATA
+Command: "/home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build/rtp_test_all" "--gtest_filter=RTP.RECEIVER_TEST_LOST_DATA" "--gtest_also_run_disabled_tests"
+Directory: /home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build
+"RTP.RECEIVER_TEST_LOST_DATA" start time: Jan 12 20:33 CST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = RTP.RECEIVER_TEST_LOST_DATA
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RTP
+[ RUN      ] RTP.RECEIVER_TEST_LOST_DATA
+[       OK ] RTP.RECEIVER_TEST_LOST_DATA (15315 ms)
+[----------] 1 test from RTP (15315 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (15315 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =  15.32 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.RECEIVER_TEST_LOST_DATA" end time: Jan 12 20:33 CST
+"RTP.RECEIVER_TEST_LOST_DATA" time elapsed: 00:00:15
+----------------------------------------------------------
+
+4/26 Testing: RTP.RECEIVER_TEST_DUP_DATA
+4/26 Test: RTP.RECEIVER_TEST_DUP_DATA
+Command: "/home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build/rtp_test_all" "--gtest_filter=RTP.RECEIVER_TEST_DUP_DATA" "--gtest_also_run_disabled_tests"
+Directory: /home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build
+"RTP.RECEIVER_TEST_DUP_DATA" start time: Jan 12 20:33 CST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = RTP.RECEIVER_TEST_DUP_DATA
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RTP
+[ RUN      ] RTP.RECEIVER_TEST_DUP_DATA
+[       OK ] RTP.RECEIVER_TEST_DUP_DATA (8133 ms)
+[----------] 1 test from RTP (8133 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (8133 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   8.14 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.RECEIVER_TEST_DUP_DATA" end time: Jan 12 20:33 CST
+"RTP.RECEIVER_TEST_DUP_DATA" time elapsed: 00:00:08
+----------------------------------------------------------
+
+5/26 Testing: RTP.RECEIVER_TEST_WRONG_CHKSUM_DATA
+5/26 Test: RTP.RECEIVER_TEST_WRONG_CHKSUM_DATA
+Command: "/home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build/rtp_test_all" "--gtest_filter=RTP.RECEIVER_TEST_WRONG_CHKSUM_DATA" "--gtest_also_run_disabled_tests"
+Directory: /home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build
+"RTP.RECEIVER_TEST_WRONG_CHKSUM_DATA" start time: Jan 12 20:33 CST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = RTP.RECEIVER_TEST_WRONG_CHKSUM_DATA
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RTP
+[ RUN      ] RTP.RECEIVER_TEST_WRONG_CHKSUM_DATA
+[       OK ] RTP.RECEIVER_TEST_WRONG_CHKSUM_DATA (15727 ms)
+[----------] 1 test from RTP (15727 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (15727 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =  15.73 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.RECEIVER_TEST_WRONG_CHKSUM_DATA" end time: Jan 12 20:34 CST
+"RTP.RECEIVER_TEST_WRONG_CHKSUM_DATA" time elapsed: 00:00:15
+----------------------------------------------------------
+
+6/26 Testing: RTP.RECEIVER_TEST_REORDER_DATA
+6/26 Test: RTP.RECEIVER_TEST_REORDER_DATA
+Command: "/home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build/rtp_test_all" "--gtest_filter=RTP.RECEIVER_TEST_REORDER_DATA" "--gtest_also_run_disabled_tests"
+Directory: /home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build
+"RTP.RECEIVER_TEST_REORDER_DATA" start time: Jan 12 20:34 CST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = RTP.RECEIVER_TEST_REORDER_DATA
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RTP
+[ RUN      ] RTP.RECEIVER_TEST_REORDER_DATA
+[       OK ] RTP.RECEIVER_TEST_REORDER_DATA (5727 ms)
+[----------] 1 test from RTP (5727 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (5727 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   5.73 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.RECEIVER_TEST_REORDER_DATA" end time: Jan 12 20:34 CST
+"RTP.RECEIVER_TEST_REORDER_DATA" time elapsed: 00:00:05
+----------------------------------------------------------
+
+7/26 Testing: RTP.RECEIVER_TEST_MIXED_1
+7/26 Test: RTP.RECEIVER_TEST_MIXED_1
+Command: "/home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build/rtp_test_all" "--gtest_filter=RTP.RECEIVER_TEST_MIXED_1" "--gtest_also_run_disabled_tests"
+Directory: /home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build
+"RTP.RECEIVER_TEST_MIXED_1" start time: Jan 12 20:34 CST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = RTP.RECEIVER_TEST_MIXED_1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RTP
+[ RUN      ] RTP.RECEIVER_TEST_MIXED_1
+[       OK ] RTP.RECEIVER_TEST_MIXED_1 (11585 ms)
+[----------] 1 test from RTP (11585 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (11585 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =  11.59 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.RECEIVER_TEST_MIXED_1" end time: Jan 12 20:34 CST
+"RTP.RECEIVER_TEST_MIXED_1" time elapsed: 00:00:11
+----------------------------------------------------------
+
+8/26 Testing: RTP.RECEIVER_TEST_MIXED_2
+8/26 Test: RTP.RECEIVER_TEST_MIXED_2
+Command: "/home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build/rtp_test_all" "--gtest_filter=RTP.RECEIVER_TEST_MIXED_2" "--gtest_also_run_disabled_tests"
+Directory: /home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build
+"RTP.RECEIVER_TEST_MIXED_2" start time: Jan 12 20:34 CST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = RTP.RECEIVER_TEST_MIXED_2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RTP
+[ RUN      ] RTP.RECEIVER_TEST_MIXED_2
+[       OK ] RTP.RECEIVER_TEST_MIXED_2 (19860 ms)
+[----------] 1 test from RTP (19860 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (19860 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =  19.87 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.RECEIVER_TEST_MIXED_2" end time: Jan 12 20:34 CST
+"RTP.RECEIVER_TEST_MIXED_2" time elapsed: 00:00:19
+----------------------------------------------------------
+
+9/26 Testing: RTP.SENDER_TEST_LOST_ACK
+9/26 Test: RTP.SENDER_TEST_LOST_ACK
+Command: "/home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build/rtp_test_all" "--gtest_filter=RTP.SENDER_TEST_LOST_ACK" "--gtest_also_run_disabled_tests"
+Directory: /home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build
+"RTP.SENDER_TEST_LOST_ACK" start time: Jan 12 20:34 CST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = RTP.SENDER_TEST_LOST_ACK
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RTP
+[ RUN      ] RTP.SENDER_TEST_LOST_ACK
+[       OK ] RTP.SENDER_TEST_LOST_ACK (1418 ms)
+[----------] 1 test from RTP (1419 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1419 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   1.42 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.SENDER_TEST_LOST_ACK" end time: Jan 12 20:34 CST
+"RTP.SENDER_TEST_LOST_ACK" time elapsed: 00:00:01
+----------------------------------------------------------
+
+10/26 Testing: RTP.SENDER_TEST_DUP_ACK
+10/26 Test: RTP.SENDER_TEST_DUP_ACK
+Command: "/home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build/rtp_test_all" "--gtest_filter=RTP.SENDER_TEST_DUP_ACK" "--gtest_also_run_disabled_tests"
+Directory: /home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build
+"RTP.SENDER_TEST_DUP_ACK" start time: Jan 12 20:34 CST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = RTP.SENDER_TEST_DUP_ACK
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RTP
+[ RUN      ] RTP.SENDER_TEST_DUP_ACK
+[       OK ] RTP.SENDER_TEST_DUP_ACK (1421 ms)
+[----------] 1 test from RTP (1421 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1421 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   1.43 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.SENDER_TEST_DUP_ACK" end time: Jan 12 20:34 CST
+"RTP.SENDER_TEST_DUP_ACK" time elapsed: 00:00:01
+----------------------------------------------------------
+
+11/26 Testing: RTP.SENDER_TEST_WRONG_CHKSUM_ACK
+11/26 Test: RTP.SENDER_TEST_WRONG_CHKSUM_ACK
+Command: "/home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build/rtp_test_all" "--gtest_filter=RTP.SENDER_TEST_WRONG_CHKSUM_ACK" "--gtest_also_run_disabled_tests"
+Directory: /home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build
+"RTP.SENDER_TEST_WRONG_CHKSUM_ACK" start time: Jan 12 20:34 CST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = RTP.SENDER_TEST_WRONG_CHKSUM_ACK
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RTP
+[ RUN      ] RTP.SENDER_TEST_WRONG_CHKSUM_ACK
+[       OK ] RTP.SENDER_TEST_WRONG_CHKSUM_ACK (1420 ms)
+[----------] 1 test from RTP (1420 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1420 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   1.43 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.SENDER_TEST_WRONG_CHKSUM_ACK" end time: Jan 12 20:34 CST
+"RTP.SENDER_TEST_WRONG_CHKSUM_ACK" time elapsed: 00:00:01
+----------------------------------------------------------
+
+12/26 Testing: RTP.SENDER_TEST_REORDER_ACK
+12/26 Test: RTP.SENDER_TEST_REORDER_ACK
+Command: "/home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build/rtp_test_all" "--gtest_filter=RTP.SENDER_TEST_REORDER_ACK" "--gtest_also_run_disabled_tests"
+Directory: /home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build
+"RTP.SENDER_TEST_REORDER_ACK" start time: Jan 12 20:34 CST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = RTP.SENDER_TEST_REORDER_ACK
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RTP
+[ RUN      ] RTP.SENDER_TEST_REORDER_ACK
+[       OK ] RTP.SENDER_TEST_REORDER_ACK (1529 ms)
+[----------] 1 test from RTP (1529 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1529 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   1.54 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.SENDER_TEST_REORDER_ACK" end time: Jan 12 20:34 CST
+"RTP.SENDER_TEST_REORDER_ACK" time elapsed: 00:00:01
+----------------------------------------------------------
+
+13/26 Testing: RTP.SENDER_TEST_MIXED_1
+13/26 Test: RTP.SENDER_TEST_MIXED_1
+Command: "/home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build/rtp_test_all" "--gtest_filter=RTP.SENDER_TEST_MIXED_1" "--gtest_also_run_disabled_tests"
+Directory: /home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build
+"RTP.SENDER_TEST_MIXED_1" start time: Jan 12 20:34 CST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = RTP.SENDER_TEST_MIXED_1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RTP
+[ RUN      ] RTP.SENDER_TEST_MIXED_1
+[       OK ] RTP.SENDER_TEST_MIXED_1 (1528 ms)
+[----------] 1 test from RTP (1528 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1528 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   1.53 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.SENDER_TEST_MIXED_1" end time: Jan 12 20:34 CST
+"RTP.SENDER_TEST_MIXED_1" time elapsed: 00:00:01
+----------------------------------------------------------
+
+14/26 Testing: RTP.SENDER_TEST_MIXED_2
+14/26 Test: RTP.SENDER_TEST_MIXED_2
+Command: "/home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build/rtp_test_all" "--gtest_filter=RTP.SENDER_TEST_MIXED_2" "--gtest_also_run_disabled_tests"
+Directory: /home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build
+"RTP.SENDER_TEST_MIXED_2" start time: Jan 12 20:34 CST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = RTP.SENDER_TEST_MIXED_2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RTP
+[ RUN      ] RTP.SENDER_TEST_MIXED_2
+[       OK ] RTP.SENDER_TEST_MIXED_2 (1456 ms)
+[----------] 1 test from RTP (1457 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1457 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   1.46 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.SENDER_TEST_MIXED_2" end time: Jan 12 20:34 CST
+"RTP.SENDER_TEST_MIXED_2" time elapsed: 00:00:01
+----------------------------------------------------------
+
+15/26 Testing: RTP.OPT_RECEIVER_TEST_LOST_DATA
+15/26 Test: RTP.OPT_RECEIVER_TEST_LOST_DATA
+Command: "/home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build/rtp_test_all" "--gtest_filter=RTP.OPT_RECEIVER_TEST_LOST_DATA" "--gtest_also_run_disabled_tests"
+Directory: /home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build
+"RTP.OPT_RECEIVER_TEST_LOST_DATA" start time: Jan 12 20:34 CST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = RTP.OPT_RECEIVER_TEST_LOST_DATA
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RTP
+[ RUN      ] RTP.OPT_RECEIVER_TEST_LOST_DATA
+[       OK ] RTP.OPT_RECEIVER_TEST_LOST_DATA (15839 ms)
+[----------] 1 test from RTP (15839 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (15839 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =  15.84 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.OPT_RECEIVER_TEST_LOST_DATA" end time: Jan 12 20:35 CST
+"RTP.OPT_RECEIVER_TEST_LOST_DATA" time elapsed: 00:00:15
+----------------------------------------------------------
+
+16/26 Testing: RTP.OPT_RECEIVER_TEST_DUP_DATA
+16/26 Test: RTP.OPT_RECEIVER_TEST_DUP_DATA
+Command: "/home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build/rtp_test_all" "--gtest_filter=RTP.OPT_RECEIVER_TEST_DUP_DATA" "--gtest_also_run_disabled_tests"
+Directory: /home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build
+"RTP.OPT_RECEIVER_TEST_DUP_DATA" start time: Jan 12 20:35 CST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = RTP.OPT_RECEIVER_TEST_DUP_DATA
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RTP
+[ RUN      ] RTP.OPT_RECEIVER_TEST_DUP_DATA
+[       OK ] RTP.OPT_RECEIVER_TEST_DUP_DATA (5561 ms)
+[----------] 1 test from RTP (5561 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (5561 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   5.57 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.OPT_RECEIVER_TEST_DUP_DATA" end time: Jan 12 20:35 CST
+"RTP.OPT_RECEIVER_TEST_DUP_DATA" time elapsed: 00:00:05
+----------------------------------------------------------
+
+17/26 Testing: RTP.OPT_RECEIVER_TEST_WRONG_CHKSUM_DATA
+17/26 Test: RTP.OPT_RECEIVER_TEST_WRONG_CHKSUM_DATA
+Command: "/home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build/rtp_test_all" "--gtest_filter=RTP.OPT_RECEIVER_TEST_WRONG_CHKSUM_DATA" "--gtest_also_run_disabled_tests"
+Directory: /home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build
+"RTP.OPT_RECEIVER_TEST_WRONG_CHKSUM_DATA" start time: Jan 12 20:35 CST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = RTP.OPT_RECEIVER_TEST_WRONG_CHKSUM_DATA
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RTP
+[ RUN      ] RTP.OPT_RECEIVER_TEST_WRONG_CHKSUM_DATA
+[       OK ] RTP.OPT_RECEIVER_TEST_WRONG_CHKSUM_DATA (14735 ms)
+[----------] 1 test from RTP (14735 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (14735 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =  14.74 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.OPT_RECEIVER_TEST_WRONG_CHKSUM_DATA" end time: Jan 12 20:35 CST
+"RTP.OPT_RECEIVER_TEST_WRONG_CHKSUM_DATA" time elapsed: 00:00:14
+----------------------------------------------------------
+
+18/26 Testing: RTP.OPT_RECEIVER_TEST_REORDER_DATA
+18/26 Test: RTP.OPT_RECEIVER_TEST_REORDER_DATA
+Command: "/home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build/rtp_test_all" "--gtest_filter=RTP.OPT_RECEIVER_TEST_REORDER_DATA" "--gtest_also_run_disabled_tests"
+Directory: /home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build
+"RTP.OPT_RECEIVER_TEST_REORDER_DATA" start time: Jan 12 20:35 CST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = RTP.OPT_RECEIVER_TEST_REORDER_DATA
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RTP
+[ RUN      ] RTP.OPT_RECEIVER_TEST_REORDER_DATA
+[       OK ] RTP.OPT_RECEIVER_TEST_REORDER_DATA (5879 ms)
+[----------] 1 test from RTP (5879 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (5879 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   5.89 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.OPT_RECEIVER_TEST_REORDER_DATA" end time: Jan 12 20:35 CST
+"RTP.OPT_RECEIVER_TEST_REORDER_DATA" time elapsed: 00:00:05
+----------------------------------------------------------
+
+19/26 Testing: RTP.OPT_RECEIVER_TEST_MIXED_1
+19/26 Test: RTP.OPT_RECEIVER_TEST_MIXED_1
+Command: "/home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build/rtp_test_all" "--gtest_filter=RTP.OPT_RECEIVER_TEST_MIXED_1" "--gtest_also_run_disabled_tests"
+Directory: /home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build
+"RTP.OPT_RECEIVER_TEST_MIXED_1" start time: Jan 12 20:35 CST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = RTP.OPT_RECEIVER_TEST_MIXED_1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RTP
+[ RUN      ] RTP.OPT_RECEIVER_TEST_MIXED_1
+[       OK ] RTP.OPT_RECEIVER_TEST_MIXED_1 (11336 ms)
+[----------] 1 test from RTP (11336 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (11336 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =  11.34 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.OPT_RECEIVER_TEST_MIXED_1" end time: Jan 12 20:35 CST
+"RTP.OPT_RECEIVER_TEST_MIXED_1" time elapsed: 00:00:11
+----------------------------------------------------------
+
+20/26 Testing: RTP.OPT_RECEIVER_TEST_MIXED_2
+20/26 Test: RTP.OPT_RECEIVER_TEST_MIXED_2
+Command: "/home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build/rtp_test_all" "--gtest_filter=RTP.OPT_RECEIVER_TEST_MIXED_2" "--gtest_also_run_disabled_tests"
+Directory: /home/donny/桌面/lab2-rtp-donnyqiu-master/Lab2-RTP-Test/build
+"RTP.OPT_RECEIVER_TEST_MIXED_2" start time: Jan 12 20:35 CST
+Output:
+----------------------------------------------------------
+Note: Google Test filter = RTP.OPT_RECEIVER_TEST_MIXED_2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RTP
+[ RUN      ] RTP.OPT_RECEIVER_TEST_MIXED_2
+[       OK ] RTP.OPT_RECEIVER_TEST_MIXED_2 (19377 ms)
+[----------] 1 test from RTP (19377 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (19377 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =  19.38 sec
+----------------------------------------------------------
+Test Passed.
+"RTP.OPT_RECEIVER_TEST_MIXED_2" end time: Jan 12 20:36 CST
+"RTP.OPT_RECEIVER_TEST_MIXED_2" time elapsed: 00:00:19
+----------------------------------------------------------
+
